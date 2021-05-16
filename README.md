@@ -15,4 +15,11 @@ Just edits for my own preferences :D. You can see the changes below:
 - Text color changes (catagory names & member list role names)
 - Subtle box shadows here and there
 
+### Installation
+- Install [BetterDiscord](https://betterdiscord.app/) (allows for running of themes and plugins like this one)
+- Download this repo
+- Go to the betterdiscord folder in this repo and copy the "comfy.theme.css"
+- Paste this into your Better Discord Theme Folder (in Windows->Users->[your account name]->Appdata(_turn hidden folders on_)->Roaming->BetterDiscord->themes)
+*For help go to the [BD installation guide](https://betterdiscord.app/FAQ)
+
 _I recomend using this with radial statuses (looks pretty epic)_
