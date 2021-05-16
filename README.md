@@ -12,6 +12,7 @@ Just edits for my own preferences :D. You can see the changes below:
 
 ## Other
 - Slight color changes
-- Subtle ox shadows here and there
+- Text color changes (catagory names & member list role names)
+- Subtle box shadows here and there
 
-_I recomend using this with radial statuses (looks pretty epic)
+_I recomend using this with radial statuses (looks pretty epic)_
